@@ -1,18 +1,22 @@
 * Name : Jihwan, Kim.
 * Email : mongtons990213@gmail.com       
 * Date Of Birth : Feb.13rd.1999
-* Collage : [Hallym University][hallym]  
-* Subject : [Bigdata](https://sw.hallym.ac.kr/index.php)
+* 
+---
+### Academic Career
+|Period|School name|Note|
+|---|---|---|
+|2015.03.02\~2016.02.28|Sanggye High School||
+|2016.03.02\~2018.02.12|Byeollae High School|Moved into Byeollae in 2016|
+|2018.03.02\~|[Hallym University][hallym]|Admissions into the IT department|
 ---
 ### Career
-|기간|내용|비고|
+|Period|Content|Note|
 |---|---|---|
-|2016.03.02\~2018.02.12|별내고등학교 졸업|2016년 별내고등학교 전입|
-|2018.03.02\~|[한림대학교][hallym] 입학|IT계열 학부 입학|
-|2018|전자공학과 제 11대 학생회 'Mate' 활동|복지부원|
-|2019.01.15\~2020.08.21|육군 병장 만기전역|제 25보병사단 복무|
-|2021|빅데이터학과 제 3대 학생회 'Plus' 활동|대외국장|
-|2022|빅데이터학과 제 4대 학생회 'Ra-On' 활동|부학회장|
+|2018|The 11th Electronic Engineering Student Council "Mate"|A member of the welfare part|
+|2019.01.15\~2020.08.21|Discharged as a sergeant in the army|25th Infantry Division|
+|2021|The 3rd Big Data Student Council "Plus"|Director of Outside Affairs|
+|2022|The 4th Big Data Student Council "Ra-On"|Vice chairman|
 
 ---
 
