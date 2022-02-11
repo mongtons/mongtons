@@ -25,7 +25,7 @@
 ---
 ## :computer:Tech:computer:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mongtons&langs_count=10&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mongtons&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <div>
   <a herf="https://flask.palletsprojects.com/en/2.0.x/">
     <img src="https://img.shields.io/badge/-Flask-%23000000?style=?style=for-the-badge&logo=Flask&logoColor=white&link=https://flask.palletsprojects.com/en/2.0.x/"
