@@ -18,7 +18,6 @@
  </div>    
 
 # :eyes: Jihwan, Kim. :eyes:
----
 > 👽 Mongtons   
 > 👨‍🚀 Male  
 > :birthday: Feb.13rd.1999
