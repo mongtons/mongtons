@@ -1,4 +1,4 @@
-* Name : 김지환
+* Name : Jihwan, Kim.
 * Email : mongtons990213@gmail.com       
 * Date Of Birth : Feb.13rd.1999
 * Collage : [Hallym University][hallym]  
