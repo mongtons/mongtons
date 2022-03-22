@@ -79,6 +79,7 @@
 ---
 ## :credit_card:License:credit_card:
 * 운전면허 2종 보통
+* ADSP - 
 ---
 github address: [mongtons][github]
 
