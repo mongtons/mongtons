@@ -79,7 +79,7 @@
 ---
 ## :credit_card:License:credit_card:
 * 운전면허 2종 보통
-* ADSP - 
+* ADSP - 데이터분석준전문가
 ---
 github address: [mongtons][github]
 
