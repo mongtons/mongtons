@@ -65,10 +65,11 @@
 |---|---|---|
 |2018|제 11대 전자공학과 학생회 "Mate"|복지부원|
 |2018|전자공학과 축구동아리 "Defy"||
-|2018|전자공학과 학술동아리 "Multi Plex"||
+|2018|전자공학과 학술동아리 "Multiplex"||
 |2019.01.15\~2020.08.21|육군 병장 만기전역|제 25보병사단|
 |2021|제 3대 빅데이터학과 학생회 "Plus"|대외국장|
 |2022|제 4대 빅데이터학과 학생회 "Ra-On"|부학회장|
+|2022|학술동아리 "Multiplex" 자바프로그래밍 멘토링|멘토|
 ---
 ## :trophy:Activity:trophy:
 * `장학금` SW인재장학금 1 (2021.first semester)
@@ -76,10 +77,12 @@
 > 1. 프로그래밍 기초 in Python 수료   
 > 2. 개발자를 위한 SQL 데이터베이스 수료
 * `장학금` SW인재장학금 1 (2021.second semester)   
+* `장학금` SW인재장학금 1 (2022.first semester)
 ---
 ## :credit_card:License:credit_card:
 * 운전면허 2종 보통
 * ADsP(데이터분석준전문가)
+* MOS Excel Expert (Office 2016)
 ---
 github address: [mongtons][github]
 
