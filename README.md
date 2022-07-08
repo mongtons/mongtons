@@ -83,6 +83,7 @@
 * 운전면허 2종 보통
 * ADsP(데이터분석준전문가)
 * MOS Excel Expert (Office 2016)
+* MOS Word Expert (Office 2016)
 ---
 github address: [mongtons][github]
 
