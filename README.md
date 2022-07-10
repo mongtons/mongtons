@@ -53,6 +53,10 @@
   </a>
  </div>
 
+![mongtons's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongtons&show_icons=true&theme=radical)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mongtons)](https://solved.ac/mongtons)
+
 ---
 ## :mortar_board:Academic Career:mortar_board:
 * 창동중학교 - 2012.03.02\~2015.02.08   
