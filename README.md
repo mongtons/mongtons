@@ -8,7 +8,7 @@
           style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
   <a herf="mailto:mongtons990213@gamil.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:mongtons990213@gamil.com"
+    <img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=plastic&logo=Gmail&logoColor=white&link=mailto:mongtons990213@gmail.com"
          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
   <a herf="mailto:smilekim99@naver.com">
