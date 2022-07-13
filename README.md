@@ -27,28 +27,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mongtons&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <div>
-  <a herf="https://flask.palletsprojects.com/en/2.0.x/">
-    <img src="https://img.shields.io/badge/-Flask-%23000000?style=?style=for-the-badge&logo=Flask&logoColor=white&link=https://flask.palletsprojects.com/en/2.0.x/"
+  <a herf="https://www.python.org/">
+    <img src="https://img.shields.io/badge/-Python-%233776AB?style=?style=for-the-badge&logo=Python&logoColor=white&link=https://www.python.org/"
          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
   <a herf="https://www.mysql.com/">
     <img src="https://img.shields.io/badge/-MySQL-%234479A1?style=?style=for-the-badge&logo=MySQL&logoColor=white&link=https://www.mysql.com/"
          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </a>
-  <a herf="https://numpy.org/">
-    <img src="https://img.shields.io/badge/-Numpy-%23013243?style=?style=for-the-badge&logo=Numpy&logoColor=white&link=https://numpy.org/"
-         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </a>
-  <a herf="https://pandas.pydata.org/">
-    <img src="https://img.shields.io/badge/-Pandas-%23150458?style=?style=for-the-badge&logo=Pandas&logoColor=white&link=https://pandas.pydata.org/"
-         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </a>
   <a herf="https://jupyter.org/">
     <img src="https://img.shields.io/badge/-Jupyter-%23F37626?style=?style=for-the-badge&logo=Jupyter&logoColor=white&link=https://jupyter.org/"
-         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-  </a>
-  <a herf="https://www.rstudio.com/">
-    <img src="https://img.shields.io/badge/-R%20studio-%2375AADB?style=?style=for-the-badge&logo=Rstudio&logoColor=white&link=https://www.rstudio.com/"
          style="height : auto; margin-left : 10px; margin-right : 10px;"/>
   </a>
  </div>
