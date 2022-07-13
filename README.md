@@ -42,7 +42,7 @@
 
 ![mongtons's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongtons&show_icons=true&theme=radical)
 
-![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mongtons)](https://solved.ac/mongtons)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mongtons)](https://solved.ac/mongtons)
 
 ---
 ## :mortar_board:Academic Career:mortar_board:
