@@ -50,7 +50,6 @@
 |2022|학술동아리 "Multiplex" 자바프로그래밍 멘토링|멘토|
 ---
 ## :trophy:Activity:trophy:
-* `장학금` SW인재장학금 1 (2021.first semester)
 * `codeit` codeit 대학생 코딩 캠프 7기 수료 (2021.06.23~2021.07.22)
 > 1. 프로그래밍 기초 in Python 수료   
 > 2. 개발자를 위한 SQL 데이터베이스 수료
