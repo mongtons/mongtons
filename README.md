@@ -60,6 +60,7 @@
 ## :credit_card:License:credit_card:
 * 운전면허 2종 보통
 * ADsP(데이터분석준전문가)
+* SqlD(SQL 개발자)
 * MOS Excel Expert (Office 2016)
 * MOS Word Expert (Office 2016)
 ---
