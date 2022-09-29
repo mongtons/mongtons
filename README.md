@@ -53,10 +53,14 @@
 * `codeit` codeit 대학생 코딩 캠프 7기 수료 (2021.06.23~2021.07.22)
 > 1. 프로그래밍 기초 in Python 수료   
 > 2. 개발자를 위한 SQL 데이터베이스 수료
-* `장학금` SW 인재장학금 1 (2021.second semester)   
+* `장학금` SW 인재장학금 1 (2021.second semester)
+> 학점 - 4.12
 * `장학금` SW 인재장학금 1 (2022.first semester)
+> 학점 - 4.12
 * `장학금` SW 멘토링장학금 (2022.first semester)
+> 학술동아리 내 자바프로그래밍 멘토링 활동
 * `장학금` SW 인재장학금 1 (2022.second semester)
+> 학점 - 4.42
 ---
 ## :credit_card:License:credit_card:
 * 운전면허 2종 보통
