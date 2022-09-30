@@ -25,8 +25,7 @@
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mongtons)](https://solved.ac/mongtons/)
 ---
 ## :computer:Tech:computer:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mongtons&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-![mongtons's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongtons&show_icons=true&theme=radical)   
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mongtons&langs_count=8&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)![mongtons's GitHub stats](https://github-readme-stats.vercel.app/api?username=mongtons&show_icons=true&theme=radical)   
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=Java&logoColor=FFFFFF" style="height : 40px;"/>
