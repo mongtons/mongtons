@@ -80,6 +80,8 @@
 * `장학금` SW 멘토링장학금 (2022.first semester)
 > 학술동아리 내 자바프로그래밍 멘토링 활동
 * `장학금` SW 인재장학금 1 (2022.second semester)
+* `교내공모전 [SW WEEK]` 웹개발 해커톤 참여
+* `교내공모전` 서공제 본선 진출
 ---
 ## :credit_card:License:credit_card:
 * 운전면허 2종 보통
