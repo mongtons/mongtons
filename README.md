@@ -95,7 +95,7 @@
 > \[[프로젝트 보기](https://github.com/mongtons/Smart_Portfolio)\]
 * `장학금` 2022 2학기 ▶ SW 추천 장학금
 * `장학금` 2022 2학기 ▶ 한림추천장학금(학과장추천)
-* `장학금` 2023 1학기 SW 인재장학금Ⅰ
+* `장학금` 2023 1학기 ▶ SW 인재장학금Ⅰ
 ---
 ## :credit_card:License:credit_card:
 * 운전면허 2종 보통
