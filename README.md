@@ -30,14 +30,14 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=Java&logoColor=FFFFFF" style="height : 40px;"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF" style="height : 40px;"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF" style="height : 40px;"/>
+<!--   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF" style="height : 40px;"/> -->
 </div>
 
 ### 📖Studying📖
 <div align="center">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=FFFFFF" style="height : 40px;"/>
+<!--   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=FFFFFF" style="height : 40px;"/> -->
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring boot&logoColor=FFFFFF" style="height : 40px;"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF" style="height : 40px;"/>
 </div>
 
 ### 🛠Tools🛠
@@ -45,9 +45,9 @@
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=FFFFFF" style="height : 40px;"/>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=FFFFFF" style="height : 40px;"/>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=FFFFFF" style="height : 40px;"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=FFFFFF" style="height : 40px;"/>
+<!--   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=FFFFFF" style="height : 40px;"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=FFFFFF" style="height : 40px;"/>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF" style="height : 40px;"/> -->
 </div>
 
 ---
@@ -88,7 +88,7 @@
 * `교내공모전 [SW WEEK]` 2022.10.30 ▶ Github 이력서 콘테스트 해커톤 참여
 * `교내공모전 [SW WEEK]` 2022.10.31 ▶ 오픈소스 웹개발 해커톤 참여
 > \[[프로젝트 보기](https://github.com/mongtons/Finding_Restaurant_in_Traditional_Market)\]
-* `교내공모전` 2022.11.04 ▶ 정보과학대학 소프트웨어학부 공대인의 날(서공제) SW공모전 콘테스트 본선 진출
+* `교내공모전` 2022.11.04 ▶ 정보과학대학 소프트웨어학부 서공제 "공대인의 날" SW공모전 콘테스트 본선 진출
 > \[[프로젝트 보기](https://github.com/mongtons/Tableing)\]
 * `상벌이력` 2022년 2학기 ▶ 한림대학교 3학년 2학기 학기우등
 * `(주)더존비즈온 & 한림대 모바일 개발자 과정 프로젝트 발표회` 2022.12.28 ▶ 우수상 수상 
