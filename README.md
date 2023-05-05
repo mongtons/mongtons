@@ -103,6 +103,7 @@
 * SqlD(SQL 개발자)
 * MOS Excel Expert (Office 2016)
 * MOS Word Expert (Office 2016)
+* MOS Access Expert (Office 2016)
 ---
 ## 🥇Credit🥇
 |Semester|Lectures|Credit|
