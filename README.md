@@ -51,6 +51,57 @@
 </div>
 
 ---
+## 📄Project📄
+<div align="center">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=FFFFFF" style="height : 40px;"/>
+  
+  ### 2018년 1학기 ▶ 한림대학교 창의코딩웹 강의 프로젝트   
+  ## \[[프로젝트 보기](https://github.com/mongtons/CreativeCoding-Web_project)\]
+
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring boot&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF" style="height : 40px;"/>
+  
+  ### 2022년 10월 31일 ▶ 한림대학교 SW WEEK 오픈소스 웹 개발 해커톤   
+  ## \[[프로젝트 보기](https://github.com/mongtons/Finding_Restaurant_in_Traditional_Market)\]
+
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring boot&logoColor=FFFFFF" style="height : 40px;"/>
+  
+  ### 2022년 11월 4일 ▶ 한림대학교 소프트웨어학부 서공제 SW공모전 콘테스트   
+  #### 🏅입선🏅   
+  ## \[[프로젝트 보기](https://github.com/mongtons/Tableing)\]   
+
+
+
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" style="height : 40px;"/>
+  
+  ### 2022년 12월 28일 ▶ (주)더존비즈온 & 한림대학교 모바일 개발자 과정 모바일프로그래밍 강의 프로젝트    
+  #### 🥈우수상🥈   
+  ## \[[프로젝트 보기](https://github.com/mongtons/Smart_Portfolio)\]
+
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/android studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=FFFFFF" style="height : 40px;"/>
+  
+  ### 2023년 1학기 ▶ 한림대학교 SW캡스톤디자인 경진대회   
+  #### 🏅입선🏅   
+  ## \[[프로젝트 보기](https://github.com/mongtons/CapstoneDesign_FindCertificationApplication)\]
+
+  <img src="https://img.shields.io/badge/mosquitto-3C5280?style=for-the-badge&logo=eclipsemosquitto&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=Java&logoColor=FFFFFF" style="height : 40px;"/>
+  
+  ### 2023년 1학기 ▶ 한림대학교 IoT네트워크 강의 프로젝트   
+  ## \[[프로젝트 보기](https://github.com/mongtons/Airport_Parkinglot_Monitoring)\]
+</div>
+
+---
 ## :trophy:Activity & Career:trophy:
 * `입학` 2018.03 ▶ 한림대학교 공과대학 IT계열학부 입학
 * `학생회` 2018 ▶ 제 11대 전자공학과 학생회 "Mate" 활동
@@ -99,7 +150,8 @@
 * `교내활동 [SW빌리지]` 2023 1학기 ▶ 한림모여코딩 프로그램 우수활동 팀 선정
 * `SW캡스톤디자인 경진대회` 2023 1학기 ▶ 한림대학교 2023학년도 1학기 SW캡스톤디자인 경진대회 입선
 > \[[프로젝트 보기](https://github.com/mongtons/CapstoneDesign_FindCertificationApplication)\]
-* `SW중심대학` 2023 1학기 ▶ 강원SW중심대학 SW페스티벌 SW프로젝트 성과발표회 참가가 
+* `SW중심대학` 2023 1학기 ▶ 강원SW중심대학 SW페스티벌 SW프로젝트 성과발표회 참가
+* `상벌이력` 2023 1학기 ▶ 한림대학교 4학년 1학기 학기우등등
 ---
 ## :credit_card:License:credit_card:
 * 운전면허 2종 보통
