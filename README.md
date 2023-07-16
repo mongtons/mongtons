@@ -51,7 +51,7 @@
 </div>
 
 ---
-## 📄Project📄
+# 📄Project📄
 <div align="center">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=FFFFFF" style="height : 40px;"/>
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=FFFFFF" style="height : 40px;"/>
@@ -102,8 +102,8 @@
 </div>
 
 ---
-## :trophy:Activity & Career:trophy:
-### 2018
+# :trophy:Activity & Career:trophy:
+## 2018
 * `입학` 2018.03 ▶ 한림대학교 공과대학 IT계열학부 입학
 * `학생회` 2018 ▶ 제 11대 전자공학과 학생회 "Mate" 활동
 > 복지부원 활동
@@ -111,9 +111,9 @@
 > 2018 - 공식경기 1경기 교체출전   
 > 2022 - 공식경기 3경기 선발출전 (조별예선 무패 & 메이저 토너먼트 14강 진출)
 * `동아리` 2018 ▶ 한림대학교 공과대학 전자공학과 학술동아리 "Multiplex" 활동   
-### 2019
+## 2019
 * `군복무` 2019.01.15~2020.08.21 ▶ 제 25보병사단 육군 병장 만기전역   
-### 2021
+## 2021
 * `복학` 2021.03 ▶ 한림대학교 소프트웨어융합대학 스마트IoT전공 복학
 > 스마트IoT전공의 前身(전신) 전자공학과
 * `학생회` 2021 ▶ 제 3대 빅데이터전공 학생회 "Plus" 활동
@@ -127,7 +127,7 @@
 * `장학금` 2021 2학기 ▶ SW 인재장학금Ⅰ
 * `교내공모전 [SW WEEK]` 2021.10.31 ▶ Github 이력서 콘테스트 해커톤 참가
 * `상벌이력` 2021 2학기 ▶ 한림대학교 2학년 2학기 학기우등   
-### 2022
+## 2022
 * `장학금` 2022 1학기 ▶ SW 인재장학금Ⅰ
 * `학생회` 2022 ▶ 제 4대 빅데이터전공 학생회 "RaOn" 활동
 > 부학회장 활동
@@ -150,7 +150,7 @@
 > \[[프로젝트 보기](https://github.com/mongtons/Smart_Portfolio)\]
 * `장학금` 2022 2학기 ▶ SW 추천 장학금
 * `장학금` 2022 2학기 ▶ 한림추천장학금(학과장추천)   
-### 2023
+## 2023
 * `장학금` 2023 1학기 ▶ SW 인재장학금Ⅰ
 * `교내활동 [SW빌리지]` 2023 1학기 ▶ 한림모여코딩 프로그램 우수활동 팀 선정
 * `SW캡스톤디자인 경진대회` 2023 1학기 ▶ 한림대학교 2023학년도 1학기 SW캡스톤디자인 경진대회 입선
@@ -158,7 +158,7 @@
 * `SW중심대학` 2023 1학기 ▶ 강원SW중심대학 SW페스티벌 SW프로젝트 성과발표회 참가
 * `상벌이력` 2023 1학기 ▶ 한림대학교 4학년 1학기 학기우등등
 ---
-## :credit_card:License:credit_card:
+# :credit_card:License:credit_card:
 * 운전면허 2종 보통
 * ADsP(데이터분석준전문가)
 * SqlD(SQL 개발자)
@@ -168,7 +168,7 @@
 * MOS PowerPoint Expert (Office 2016)
 * MOS 2016 Master
 ---
-## 🥇Credit🥇
+# 🥇Credit🥇
 ### 전공 강의 수강 목록
 |Semester|Lectures|Credit|
 |---|---|---|
