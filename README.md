@@ -155,7 +155,7 @@
 * `교내활동 [SW빌리지]` 1학기 ▶ 한림모여코딩 프로그램 우수활동 팀 선정
 * `SW캡스톤디자인 경진대회` 1학기 ▶ 한림대학교 2023학년도 1학기 SW캡스톤디자인 경진대회 입선
 > \[[프로젝트 보기](https://github.com/mongtons/CapstoneDesign_FindCertificationApplication)\]
-* `SW중심대학` 1학기 ▶ 강원SW중심대학 SW페스티벌 SW프로젝트 성과발표회 참가
+* `SW중심대학` 06.28. ▶ 강원SW중심대학 SW페스티벌 SW프로젝트 성과발표회 참가
 * `상벌이력` 1학기 ▶ 한림대학교 빅데이터전공 학기우등
 ---
 # :credit_card:License:credit_card:
