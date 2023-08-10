@@ -157,6 +157,8 @@
 > \[[프로젝트 보기](https://github.com/mongtons/CapstoneDesign_FindCertificationApplication)\]
 * `SW중심대학` 06.28. ▶ 강원SW중심대학 SW페스티벌 SW프로젝트 성과발표회 참가
 * `상벌이력` 1학기 ▶ 한림대학교 빅데이터전공 학기우등
+* `해외연수` 07.24.~08.04. ▶ 한림대학교 하계 해외 IT 연수
+> University of York, United Kingdom
 ---
 # :credit_card:License:credit_card:
 * 운전면허 2종 보통
