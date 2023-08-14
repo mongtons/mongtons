@@ -244,13 +244,43 @@
 ---
 # :credit_card:License:credit_card:
 * 운전면허 2종 보통
-* ADsP(데이터분석준전문가)
-* SqlD(SQL 개발자)
-* MOS Excel Expert (Office 2016)
-* MOS Word Expert (Office 2016)
-* MOS Access Expert (Office 2016)
-* MOS PowerPoint Expert (Office 2016)
-* MOS 2016 Master
+<details markdown="1">
+  <summary>ADsP(데이터분석준전문가)</summary>
+  
+  ![adsp](etc/adsp.png)
+</details>
+<details markdown="1">
+  <summary>SqlD(SQL 개발자)</summary>
+  
+  ![sqld](etc/sqld.png)
+</details>
+<details markdown="1">
+  <summary>MOS Excel Expert (Office 2016)</summary>
+  
+  ![excel](etc/excel.png)
+</details>
+<details markdown="1">
+  <summary>MOS Word Expert (Office 2016)</summary>
+  
+  ![word](etc/word.png)
+</details>
+<details markdown="1">
+  <summary>MOS Access Expert (Office 2016)</summary>
+  
+  ![access](etc/access.png)
+</details>
+<details markdown="1">
+  <summary>MOS PowerPoint Expert (Office 2016)</summary>
+  
+  ![powerpoint](etc/powerpoint.png)
+</details>
+<details markdown="1">
+  <summary>MOS 2016 Master</summary>
+  
+  ![master](etc/master.png)
+</details>
+
+
 ---
 # 🥇Credit🥇
 ### 전공 강의 수강 목록
