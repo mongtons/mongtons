@@ -103,7 +103,89 @@
 
 ---
 # :trophy:Activity & Career:trophy:
-## 2018
+<details markdown="1">
+  <summary markdown="1">2018</summary>
+  <div markdown="1">
+  
+  * `입학` 02.28. ▶ 한림대학교 공과대학 IT계열학부 입학
+  * `학생회` ▶ 제 11대 전자공학과 학생회 "Mate" 활동
+  > 복지부원 활동
+  * `동아리` ▶ 한림대학교 공과대학 전자공학과 축구동아리 "Defy" 활동
+  > 2018 - 공식경기 1경기 교체출전   
+  > 2022 - 공식경기 3경기 선발출전 (조별예선 무패 & 메이저 토너먼트 14강 진출)
+  * `동아리` ▶ 한림대학교 공과대학 전자공학과 학술동아리 "Multiplex" 활동   
+  </div>
+</details>   
+<details markdown="1">
+  <summary markdown="1">2019</summary>
+  <div markdown="1">
+  
+  * `군복무` 01.15.~2020.08.21 ▶ 제 25보병사단 육군 병장 만기전역 
+  </div>
+</details>   
+<details markdown="1">
+  <summary markdown="1">2021</summary>
+  <div markdown="1">
+  
+  * `복학` 03.02. ▶ 한림대학교 소프트웨어융합대학 스마트IoT전공 복학
+> 스마트IoT전공의 前身(전신) 전자공학과
+* `학생회` ▶ 제 3대 빅데이터전공 학생회 "Plus" 활동
+> 대외국장 활동
+* `상벌이력` 1학기 ▶ 한림대학교 스마트IoT전공 학기우등
+* `대외활동` 06.23.~07.22. ▶ codeit 대학생 코딩 캠프 7기 수료
+> 1. 프로그래밍 기초 in Python 수료   
+> 2. 개발자를 위한 SQL 데이터베이스 수료   
+* `전과` 08.30. ▶ 한림대학교 소프트웨어융합대학 빅데이터전공 전과
+> 빅데이터전공의 前身(전신) 컴퓨터공학과
+* `장학금` 2학기 ▶ SW 인재장학금Ⅰ
+* `교내공모전 [SW WEEK]` 10.31. ▶ Github 이력서 콘테스트 해커톤 참가
+* `상벌이력` 2학기 ▶ 한림대학교 빅데이터전공 학기우등    
+  </div>
+</details>   
+<details markdown="1">
+  <summary markdown="1">2022</summary>
+  <div markdown="1">
+  
+  * `장학금` 1학기 ▶ SW 인재장학금Ⅰ
+* `학생회` ▶ 제 4대 빅데이터전공 학생회 "RaOn" 활동
+> 부학회장 활동
+* `교내공모전` 04.29. ▶ Github 이력서 콘테스트 해커톤 참가
+* `상벌이력` 1학기 ▶ 한림대학교 빅데이터전공 학기우등 
+* `동아리` 06.20.~08.12. ▶ 한림대학교 소프트웨어융합대학 학술동아리 "Multiplex" 여름방학 SW멘토링
+> 멘토 활동   
+> 자바프로그래밍 멘토링
+* `장학금` 1학기 ▶ SW 멘토링장학금
+* `장학금` 2학기 ▶ SW 인재장학금Ⅰ
+* `TOPCIT` 10.29. ▶ 2022년 제 18회 TOPCIT 응시
+> 수준 3 (415점/1000점)
+* `교내공모전 [SW WEEK]` 10.30. ▶ Github 이력서 콘테스트 해커톤 참여
+* `교내공모전 [SW WEEK]` 10.31. ▶ 오픈소스 웹개발 해커톤 참여
+> \[[프로젝트 보기](https://github.com/mongtons/Finding_Restaurant_in_Traditional_Market)\]
+* `교내공모전` 11.04. ▶ 정보과학대학 소프트웨어학부 서공제 "공대인의 날" SW공모전 콘테스트 본선 진출
+> \[[프로젝트 보기](https://github.com/mongtons/Tableing)\]
+* `상벌이력` 2학기 ▶ 한림대학교 빅데이터전공 학기우등 
+* `(주)더존비즈온 & 한림대 모바일 개발자 과정 프로젝트 발표회` 12.28. ▶ 우수상 수상 
+> \[[프로젝트 보기](https://github.com/mongtons/Smart_Portfolio)\]
+* `장학금` 2학기 ▶ SW 추천 장학금
+* `장학금` 2학기 ▶ 한림추천장학금(학과장추천)   
+  </div>
+</details>   
+<details markdown="1">
+  <summary markdown="1">2023</summary>
+  <div markdown="1">
+  
+  * `장학금` 1학기 ▶ SW 인재장학금Ⅰ
+* `교내활동 [SW빌리지]` 1학기 ▶ 한림모여코딩 프로그램 우수활동 팀 선정
+* `SW캡스톤디자인 경진대회` 1학기 ▶ 한림대학교 2023학년도 1학기 SW캡스톤디자인 경진대회 입선
+> \[[프로젝트 보기](https://github.com/mongtons/CapstoneDesign_FindCertificationApplication)\]
+* `SW중심대학` 06.28. ▶ 강원SW중심대학 SW페스티벌 SW프로젝트 성과발표회 참가
+* `상벌이력` 1학기 ▶ 한림대학교 빅데이터전공 학기우등
+* `해외연수` 07.24.~08.04. ▶ 한림대학교 하계 해외 IT 연수
+> University of York, United Kingdom-->
+  </div>
+</details>   
+
+<!--## 2018
 * `입학` 02.28. ▶ 한림대학교 공과대학 IT계열학부 입학
 * `학생회` ▶ 제 11대 전자공학과 학생회 "Mate" 활동
 > 복지부원 활동
@@ -158,7 +240,7 @@
 * `SW중심대학` 06.28. ▶ 강원SW중심대학 SW페스티벌 SW프로젝트 성과발표회 참가
 * `상벌이력` 1학기 ▶ 한림대학교 빅데이터전공 학기우등
 * `해외연수` 07.24.~08.04. ▶ 한림대학교 하계 해외 IT 연수
-> University of York, United Kingdom
+> University of York, United Kingdom-->
 ---
 # :credit_card:License:credit_card:
 * 운전면허 2종 보통
