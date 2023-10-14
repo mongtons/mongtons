@@ -23,6 +23,7 @@
 ![img](etc/취업사진.jpg)
 ### 👽 Ji hwan, Kim.   
 #### :birthday: Feb.13rd.1999
+#### 🏫 Hallym Univ.
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mongtons)](https://solved.ac/mongtons/)
 ---
 ## :computer:Tech:computer:
