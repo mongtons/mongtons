@@ -20,7 +20,10 @@
  </div>    
 
 # :eyes: Who am I :eyes:
-![img](etc/취업사진.jpg)
+<img src="/etc/취업사진.jpg" width="150" height="199">
+
+
+
 ### 👽 Ji hwan, Kim.   
 #### :birthday: Feb.13rd.1999
 #### 🏫 Hallym Univ.
