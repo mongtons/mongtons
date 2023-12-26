@@ -41,8 +41,9 @@
 
 ### 📖Studying📖
 <div align="center">
-<!--   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=FFFFFF" style="height : 40px;"/> -->
-  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring boot&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/jetpack compose-4285F4?style=for-the-badge&logo=Jetpack Compose&logoColor=FFFFFF" style="height : 40px;"/>
 </div>
 
 ### 🛠Tools🛠
@@ -50,9 +51,9 @@
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=FFFFFF" style="height : 40px;"/>
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=IntelliJ IDEA&logoColor=FFFFFF" style="height : 40px;"/>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=FFFFFF" style="height : 40px;"/>
-<!--   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=FFFFFF" style="height : 40px;"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=FFFFFF" style="height : 40px;"/>
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF" style="height : 40px;"/> -->
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=Realm&logoColor=FFFFFF" style="height : 40px;"/>
+<!--   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF" style="height : 40px;"/> -->
 </div>
 
 ---
@@ -203,6 +204,9 @@
 > 바디텍메드(주)
   </div>
 </details>
+
+
+
 <!--## 2018
 * `입학` 02.28. ▶ 한림대학교 공과대학 IT계열학부 입학
 * `학생회` ▶ 제 11대 전자공학과 학생회 "Mate" 활동
