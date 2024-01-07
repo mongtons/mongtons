@@ -34,8 +34,8 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=Java&logoColor=FFFFFF" style="height : 40px;"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF" style="height : 40px;"/>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring boot&logoColor=FFFFFF" style="height : 40px;"/>
 <!--   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=FFFFFF" style="height : 40px;"/> -->
 </div>
 
@@ -53,6 +53,8 @@
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=FFFFFF" style="height : 40px;"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=FFFFFF" style="height : 40px;"/>
   <img src="https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=Realm&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=FFFFFF" style="height : 40px;"/>
+  <img src="https://img.shields.io/badge/sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=FFFFFF" style="height : 40px;"/>
 <!--   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=FFFFFF" style="height : 40px;"/> -->
 </div>
 
